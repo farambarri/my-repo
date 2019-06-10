@@ -3,7 +3,7 @@ entries:
   endpointmanager:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-06-10T13:44:55.3805336-03:00"
+    created: "2019-06-10T13:53:22.9195443-03:00"
     description: A Helm chart for Kubernetes
     digest: 996e18c87062b0dbae297735bffc26fd7da3b7fff55419b5df1c7d7ac368ade7
     name: endpointmanager
@@ -13,9 +13,9 @@ entries:
   forwarding:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-06-10T13:44:55.3815665-03:00"
+    created: "2019-06-10T13:53:22.920544-03:00"
     description: A Helm chart for Kubernetes
-    digest: a38cbc520b1f0262a7837589f10c7c36b099e05212a479a5e67b38e22a4882c5
+    digest: 423119efa938c300b89ec8e93afd65f7a80aeb2658c508a3655e646f2cda2c29
     name: forwarding
     urls:
     - https://github.com/farambarri/my-repo/blob/master/forwarding-0.1.0.tgz
@@ -23,11 +23,11 @@ entries:
   i15platformchart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-06-10T13:44:55.3825673-03:00"
+    created: "2019-06-10T13:53:22.9215577-03:00"
     description: A Helm chart for Kubernetes
     digest: a9a3f27a11ff13bc76b9ec37571454ee4d45ca2b34bbf07f208c91a45454e522
     name: i15platformchart
     urls:
     - https://github.com/farambarri/my-repo/blob/master/i15platformchart-0.1.0.tgz
     version: 0.1.0
-generated: "2019-06-10T13:44:55.3805336-03:00"
+generated: "2019-06-10T13:53:22.9195443-03:00"
