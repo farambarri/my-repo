@@ -3,9 +3,9 @@ entries:
   endpointmanager:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-06-13T10:34:36.9168825-03:00"
+    created: "2019-06-19T10:00:53.3904496-03:00"
     description: A Helm chart for Kubernetes
-    digest: 996e18c87062b0dbae297735bffc26fd7da3b7fff55419b5df1c7d7ac368ade7
+    digest: 1c1b814d3d00c798b85f5f28cbe1537d57267fa30649f2b40bfbc0ec281b81ff
     name: endpointmanager
     urls:
     - https://raw.githubusercontent.com/farambarri/my-repo/master/endpointmanager-0.1.0.tgz
@@ -13,9 +13,9 @@ entries:
   forwarding:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-06-13T10:34:36.9209123-03:00"
+    created: "2019-06-19T10:00:53.3914539-03:00"
     description: A Helm chart for Kubernetes
-    digest: 423119efa938c300b89ec8e93afd65f7a80aeb2658c508a3655e646f2cda2c29
+    digest: b49bb598654991d95608450fdd8b79da5b84e9f631c63f354b284ccc1f061fd0
     name: forwarding
     urls:
     - https://raw.githubusercontent.com/farambarri/my-repo/master/forwarding-0.1.0.tgz
@@ -23,9 +23,9 @@ entries:
   i15platformchart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-06-13T10:34:36.9258794-03:00"
+    created: "2019-06-19T10:00:53.3924497-03:00"
     description: A Helm chart for Kubernetes
-    digest: a9a3f27a11ff13bc76b9ec37571454ee4d45ca2b34bbf07f208c91a45454e522
+    digest: e9d91146e0b3cddca0db29bc013717fd0079dc3191f00390ad9792e2aaca0e3a
     name: i15platformchart
     urls:
     - https://raw.githubusercontent.com/farambarri/my-repo/master/i15platformchart-0.1.0.tgz
@@ -33,11 +33,11 @@ entries:
   mysubchart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-06-13T10:34:36.9279078-03:00"
+    created: "2019-06-19T10:00:53.3934491-03:00"
     description: A Helm chart for Kubernetes
     digest: b8a305861e22d03e890f1cd9008baf193d5c8c3507110eff2d19740d5c840fcd
     name: mysubchart
     urls:
     - https://raw.githubusercontent.com/farambarri/my-repo/master/mysubchart-0.1.0.tgz
     version: 0.1.0
-generated: "2019-06-13T10:34:36.9118845-03:00"
+generated: "2019-06-19T10:00:53.3894522-03:00"
