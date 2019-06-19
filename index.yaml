@@ -3,9 +3,9 @@ entries:
   endpointmanager:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-06-19T10:00:53.3904496-03:00"
+    created: "2019-07-03T13:20:08.7237612-03:00"
     description: A Helm chart for Kubernetes
-    digest: 1c1b814d3d00c798b85f5f28cbe1537d57267fa30649f2b40bfbc0ec281b81ff
+    digest: 2d14bae436305d7f0ea9337adf16ce00b0dd4b0082ce36eb7a37d9593b0e419a
     name: endpointmanager
     urls:
     - https://raw.githubusercontent.com/farambarri/my-repo/master/endpointmanager-0.1.0.tgz
@@ -13,9 +13,9 @@ entries:
   forwarding:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-06-19T10:00:53.3914539-03:00"
+    created: "2019-07-03T13:20:08.7287586-03:00"
     description: A Helm chart for Kubernetes
-    digest: b49bb598654991d95608450fdd8b79da5b84e9f631c63f354b284ccc1f061fd0
+    digest: 35813109553f04605582098ed44531fc67bb592bbb589d2e195f3f6b1dd500bb
     name: forwarding
     urls:
     - https://raw.githubusercontent.com/farambarri/my-repo/master/forwarding-0.1.0.tgz
@@ -23,9 +23,9 @@ entries:
   i15platformchart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-06-19T10:00:53.3924497-03:00"
+    created: "2019-07-03T13:20:08.7350256-03:00"
     description: A Helm chart for Kubernetes
-    digest: e9d91146e0b3cddca0db29bc013717fd0079dc3191f00390ad9792e2aaca0e3a
+    digest: 29458dee91768c626adba6c26f9bb9b6ef6f32775f53d91f4000ad73c9af99db
     name: i15platformchart
     urls:
     - https://raw.githubusercontent.com/farambarri/my-repo/master/i15platformchart-0.1.0.tgz
@@ -33,11 +33,11 @@ entries:
   mysubchart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-06-19T10:00:53.3934491-03:00"
+    created: "2019-07-03T13:20:08.7367578-03:00"
     description: A Helm chart for Kubernetes
-    digest: b8a305861e22d03e890f1cd9008baf193d5c8c3507110eff2d19740d5c840fcd
+    digest: 5ece07651f99f23ce7d8a1cd4f5846a73c8677191334eefa9e5486af2953176f
     name: mysubchart
     urls:
     - https://raw.githubusercontent.com/farambarri/my-repo/master/mysubchart-0.1.0.tgz
     version: 0.1.0
-generated: "2019-06-19T10:00:53.3894522-03:00"
+generated: "2019-07-03T13:20:08.7197565-03:00"
