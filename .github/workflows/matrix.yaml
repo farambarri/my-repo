@@ -10,6 +10,6 @@ jobs:
         region: ["eastus","westus"]
     steps:
       - name: Test matrix
-        run: echo '::Value $REGION'
+        run: echo "Value $REGION"
         env:
           REGION: ${{ matrix.region }}
