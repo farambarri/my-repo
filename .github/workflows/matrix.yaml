@@ -1,15 +1,15 @@
   
 name: matrix-test-action
-strategy:
-  matrix:
-    region: ["eastus","westus"]
 on: 
   workflow_dispatch:
 jobs:
-  check-bats-version:
+  matrix-test:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        region: ["eastus","westus"]
     steps:
       - name: Test matrix
-        run: echo '::Value ${{region}}'
-        with:
-          region: ${{ matrix.region }}
+        run: echo '::Value $REGION'
+        env:
+          REGION: ${{ matrix.region }}
